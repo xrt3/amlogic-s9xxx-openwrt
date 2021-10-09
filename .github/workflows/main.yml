@@ -1,2 +1,0 @@
-- name: Use ophub script to package Armvirt as OpenWrt
-  uses: ophub/amlogic-s9xxx-openwrt@v3.0
