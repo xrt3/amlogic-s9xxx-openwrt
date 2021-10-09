@@ -58,5 +58,5 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 # Add xmurp-ua
 git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
 
-# Add ua2f
-git clone https://github.com/Zxilly/UA2F.git package/ua2f
+# # Add ua2f
+# git clone https://github.com/Zxilly/UA2F.git package/ua2f
