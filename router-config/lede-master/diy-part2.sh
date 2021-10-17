@@ -60,3 +60,6 @@ git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
 
 # # Add ua2f
 # git clone https://github.com/Zxilly/UA2F.git package/ua2f
+
+# Add Pushbot
+git clone https://github.com/zzsj0928/luci-app-pushbot package/luci-app-pushbot
